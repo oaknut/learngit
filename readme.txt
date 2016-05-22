@@ -5,3 +5,4 @@ Git tracks changes of files.
 What 1
 what 2
 stupid boss
+Creating a new branch is quick.this is a sample.
