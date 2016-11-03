@@ -1,0 +1,31 @@
+1.------------------
+mkdir learngit
+
+git init
+
+ls -ah
+
+git add readme.txt
+
+git commit -m "some comment"
+
+2.------------------
+
+git status
+
+git log
+ 
+git log --pretty=oneline
+
+git diff readme.txt
+
+git reset --hard HEAD^
+
+cat readme.txt
+
+git reset --hard 35627787
+
+git reflog
+
+
+
