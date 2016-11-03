@@ -7,4 +7,8 @@ what more...
 stupid boss
 Creating a new branch is quick and simple.
 this is a sample.test no-off hahaha
-dasdsa
+
+
+Slogon:
+start to learn git all over again. 2016.11.03
+Never stop your footstep before your dream come true.
